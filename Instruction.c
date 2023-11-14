@@ -47,7 +47,14 @@ int w,y;
 int a1,b1,c1 = 5;
 //  int a1;    int b1;    int c1=5;
 
+int ab =5;
+ ab = ab+3;
 
+ ab+=3;
+ ab-=3;
+ ab*=3;
+
+ 
 
 
 }
